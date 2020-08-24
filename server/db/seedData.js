@@ -1,0 +1,37 @@
+/* Recipe Books */
+{
+    "createdBy": "some user id",
+        "title": "Mary Berry's Quick Cooking",
+            "notes": "The nation’s queen of home cooking brings her foolproof, delicious approach to quick fix recipes.\nIn this brand-new, official tie-in to the major BBC Two series, Mary shows how being in a rush will never be a problem again. Find brilliant 20- and 30-minute meals and enjoy wonderful dishes that can be swiftly assembled and then left to cook away while you do something else.\nMary’s utterly reliable, always delicious fast dishes tempt any tastebuds and her no-fuss expertise means you can cook from scratch and put mouth-watering home-cooked food on your family’s table without compromising on quality or freshness.\nThis stunning cookbook, packed with colourful photography, includes over 120 new recipes, including all the recipes from the series, plus Mary’s trademark no-nonsense tips and techniques for getting ahead in the kitchen so cooking is always stress-free.\nLooking for a fast, satisfying supper? There’s Crumble fish pie, Lamb tagine with preserved lemon or Pan-fried spiced falafels. Something special for Sunday lunch or dinner with friends? Roast Venison fillet and peppercorn sauce, 30-minute Beef ragu or Roast fillet pork with sage and mustard sauce followed by Upside-down rhubarb pudding.\n With Mary’s trusted advice and recipes, discover how easy fantastic fast cooking can be.",
+                "coverImage": "https://m.media-amazon.com/images/I/81uoBx9r5fL._AC_UY436_QL65_.jpg",
+}
+{
+    "createdBy": "some user id",
+        "title": "Ottolenghi SIMPLE",
+            "notes": "Everything you love about Ottolenghi, made simple.\nYotam Ottolenghi’s award-winning recipes are always a celebration: an unforgettable combination of abundance, taste and surprise. Ottolenghi SIMPLE is no different, with 130 brand-new dishes that contain all the inventive elements and flavour combinations that Ottolenghi is loved for, but with minimal hassle for maximum joy.\nBursting with colourful photography, Ottolenghi SIMPLE showcases Yotam’s standout dishes that will suit whatever type of cooking you find easy – whether that’s getting wonderful food on the table in under 30 minutes, using just one pot to make a delicious meal, or a flavoursome dish that can be prepared ahead and then served when you’re ready.\nThese brilliant, flavour-forward dishes are all SIMPLE in at least one (but very often more than one) way:\n\nS – short on time: less than 30 \nminutes \nI – 10 ingredients or less\nM – make ahead\nP – pantry \nL – lazy\nE – easier than you think\n\nOttolenghi SIMPLE is the stunning new cookbook we have all been wishing for: Yotam Ottolenghi’s vibrant food made easy.",
+                "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41tpvYBbG8L._SX363_BO1,204,203,200_.jpg",
+}
+{
+    "createdBy": "some user id",
+        "title": "The Hairy Bikers' One Pot Wonders: Over 100 delicious new favourites, from terrific tray bakes to roasting tin treats!",
+            "notes": "Life is complicated enough so why not let Si King and Dave Myers, AKA the Hairy Bikers, make it just that bit easier?\n\nWhether it's inspiration for supper after a hard day's work or a slow roast feast for a weekend gathering, One Pot Wonders has it all. From rich and warming tray bakes to light but satisfying salads, these triple-tested recipes deliver on flavour and cut out the fuss.\n\nThis is Si and Dave's most wonderful collection yet, with chapters on breakfasts and brunches, soups and salads, satisfying stews, quick one pot carbs, tarts and tray bakes, stovetop suppers, pies and pot roasts, and puds and cakes - this book is a belter!\n\nEnjoy savoury classics like Sausage and Bean tray bake and Showstopper Quiche, or the sweet delights of Rhubarb and Orange Crumble and Boozy Syllabub Trifle, there's so much here to tickle the taste buds and get your cooking mojo back into the kitchen.\n\nSo dial back the effort and turn up the flavour with Si and Dave's One Pot Wonders!",
+                "coverImage": "https://images-na.ssl-images-amazon.com/images/I/61Y5d7NfJuL._SX384_BO1,204,203,200_.jpg",
+}
+{
+    "createdBy": "some user id",
+        "title": "Twagamama Feed Your Soul: Fresh + simple recipes from the wagamama kitchen",
+            "notes": "These dishes have been designed for every occasion and offer recipes for a variety of diets. Cook rapid weekday meals, watch slow-cooked ramens simmer and even learn the art of making gyoza - Feed Your Soul is packed with tips and ideas for bringing wagamama to your kitchen.\n\nFeed Your Soul encourages mindful cooking - taking the time to appreciate and enjoy creating and eating these dishes is key. Methods for preparing your own homemade ramen noodles, kimchee, sauces and stocks are shared, so your dishes can be created entirely by you. We can't always spare the time to make everything from scratch, so you'll also find speedy, nutritious and simple recipes, as well as ingredient swaps and hacks.\n\nIncluding the never-before-shared recipe for chicken katsu curry, the famous yaki soba and fiery bang bang cauliflower, the dishes are balanced and offer suggestions for alternatives should you not have all the ingredients at home, allowing you to be more sustainable and creative in the kitchen.\n\nWith original food photography, evocative shots of Japanese food emporia and lifestyle shots of noodles, ramen and ingredients, Feed Your Soul is set to become the new classic wagamama cookbook.",
+                "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51Qiss02HwL._SX405_BO1,204,203,200_.jpg",
+}
+{
+    "createdBy": "some user id",
+        "title": "5 Ingredients - Quick & Easy Food",
+            "notes": "With just FIVE ingredients that have maximum flavour and minimum fuss, you'll be cooking exciting food that's ready in less than 30 minutes . . .\n\nMOUTHWATERING WATERMELOM, RADISH AND FETA SALAD\n\nZINGY LEMONY COURGETTE LINGUINE\n\nSPEEDY SPICED PRAWN AND BASMATI-RICE SOUP\n\nHONEYED STICKY PORK AND CARROT STIR FRY\n\nSCRUMPTIOUS CHOCOLATE ORANGE SHORTBREAD",
+                "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41DOeQYp3XL._SX374_BO1,204,203,200_.jpg"
+}
+{
+    "createdBy": "some user id",
+        "title": "Gordon Ramsay Quick & Delicious: 100 recipes in 30 minutes or less",
+            "notes": "With unlimited access to recipes, why does anyone need another cookbook? Because not all recipes are born equal. Not all of them have been created by a global superstar chef who has built his reputation on delivering the very best food - whether that's the ultimate fine dining experience at his 3 Michelin-star Restaurant Gordon Ramsay or the perfectly crafted burger from his Las Vegas burger joint.\n\nOver the course of his stellar career, Gordon has learnt every trick in the trade to create dishes that taste fantastic and that can be produced without fail during even the most busy service. Armed with that knowledge, he has written an inspired collection of recipes for the time-pressed home cook who doesn't want to compromise on taste or flavour.\n\nThe result is 100 tried and tested recipes that you'll find yourself using time and again. All the recipes take 30 minutes or less and use readily available ingredients that are transformed into something special with Gordon's expertise.",
+                "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51AUezciYWL._SX382_BO1,204,203,200_.jpg",
+}
